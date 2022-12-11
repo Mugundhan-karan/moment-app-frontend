@@ -1,0 +1,15 @@
+.lists{
+    margin-left: 5px;
+    padding: 1 1 1 1;
+}
+
+.ul{ 
+    background-color: rgb(4, 18, 34);
+     color: white;
+     padding: 1rem 1rem 1rem 1rem;
+ }
+
+ h4{
+    margin-left: 3px;
+    padding: 1rem 1rem 1rem 1rem;
+ }

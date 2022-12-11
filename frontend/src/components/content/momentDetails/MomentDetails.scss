@@ -1,0 +1,39 @@
+.frame {
+	position: absolute;
+	top: 50%;
+	left: 32%;
+	width: 1150px;
+	height:600px;
+	margin-top: -250px;
+	margin-left: -200px;
+	border-radius: 2px;
+	box-shadow: 4px 8px 16px 0 rgba(0, 0, 0, 0.1);
+	overflow: hidden;
+	background: #fff;
+	
+	color: #333;
+	font-family: "Open Sans", Helvetica, sans-serif;
+}
+
+.center {
+	position: absolute;
+	top: 55%;
+	left: 80%;
+	transform: translate(-50%, -50%);
+	width: 300px;
+	height: 260px;
+	border-radius: 3px;
+	box-shadow: 8px 10px 15px 0 rgba(0, 0, 0, 0.2);
+	background: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	flex-direction: column;
+}
+
+.img{
+   
+   margin-top: 50px;
+    width: 800px;
+    height: 450px;
+}
